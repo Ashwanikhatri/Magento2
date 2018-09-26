@@ -1,0 +1,17 @@
+[2018-05-16 12:47:19] main.DEBUG: array (
+  'request' => 
+  array (
+    'TXN_TYPE' => 'A',
+    'INVOICE' => '000000002',
+    'AMOUNT' => 175.0,
+    'CURRENCY' => 'INR',
+    'EMAIL' => 'ashwani@mailinator.com',
+    'MERCHANT_KEY' => '****',
+    'FORCE_RESULT' => 1,
+  ),
+  'response' => 
+  array (
+    'RESULT_CODE' => 1,
+    'TXN_ID' => 'b3e3e393c77e35a4a3f3cbd1e429b5dc',
+  ),
+) [] []

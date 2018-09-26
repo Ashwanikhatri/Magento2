@@ -1,0 +1,434 @@
+2018-05-31T06:54:34+00:00 INFO (6): Action: auth
+2018-05-31T06:54:34+00:00 INFO (6): Request
+2018-05-31T06:54:34+00:00 INFO (6): Array
+(
+    [merchid] => S8qgg4x1aGfmEBnWzAwA0wc7IfSFTKSS
+    [orderid] => 000000067
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 38840
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-05-31T06:54:37+00:00 INFO (6): Response
+2018-05-31T06:54:37+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-05-31T14:39:17+00:00 INFO (6): Action: auth
+2018-05-31T14:39:17+00:00 INFO (6): Request
+2018-05-31T14:39:17+00:00 INFO (6): Array
+(
+    [merchid] => 417227771521
+    [orderid] => 000000068
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 78180
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-05-31T14:39:20+00:00 INFO (6): Response
+2018-05-31T14:39:20+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-05-31T14:51:05+00:00 INFO (6): Action: auth
+2018-05-31T14:51:05+00:00 INFO (6): Request
+2018-05-31T14:51:05+00:00 INFO (6): Array
+(
+    [merchid] => S8qgg4x1aGfmEBnWzAwA0wc7IfSFTKSS
+    [orderid] => 000000069
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 33300
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-05-31T14:51:07+00:00 INFO (6): Response
+2018-05-31T14:51:07+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-05-31T14:55:09+00:00 INFO (6): Action: auth
+2018-05-31T14:55:09+00:00 INFO (6): Request
+2018-05-31T14:55:09+00:00 INFO (6): Array
+(
+    [merchid] => S8qgg4x1aGfmEBnWzAwA0wc7IfSFTKSS
+    [orderid] => 000000070
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 34340
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-05-31T14:55:12+00:00 INFO (6): Response
+2018-05-31T14:55:12+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-06-01T08:17:10+00:00 INFO (6): Action: auth
+2018-06-01T08:17:10+00:00 INFO (6): Request
+2018-06-01T08:17:10+00:00 INFO (6): Array
+(
+    [merchid] => 
+    [orderid] => 000000071
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 135860
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-06-01T08:17:13+00:00 INFO (6): Response
+2018-06-01T08:17:13+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-06-01T08:17:23+00:00 INFO (6): Action: auth
+2018-06-01T08:17:23+00:00 INFO (6): Request
+2018-06-01T08:17:23+00:00 INFO (6): Array
+(
+    [merchid] => 
+    [orderid] => 000000072
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 135860
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-06-01T08:17:26+00:00 INFO (6): Response
+2018-06-01T08:17:26+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-06-01T08:18:22+00:00 INFO (6): Action: auth
+2018-06-01T08:18:22+00:00 INFO (6): Request
+2018-06-01T08:18:22+00:00 INFO (6): Array
+(
+    [merchid] => S8qgg4x1aGfmEBnWzAwA0wc7IfSFTKSS
+    [orderid] => 000000073
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 135860
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-06-01T08:18:25+00:00 INFO (6): Response
+2018-06-01T08:18:25+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-06-01T08:19:41+00:00 INFO (6): Action: auth
+2018-06-01T08:19:41+00:00 INFO (6): Request
+2018-06-01T08:19:41+00:00 INFO (6): Array
+(
+    [merchid] => S8qgg4x1aGfmEBnWzAwA0wc7IfSFTKSS
+    [orderid] => 000000074
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 135860
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-06-01T08:19:43+00:00 INFO (6): Response
+2018-06-01T08:19:43+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-06-04T10:33:29+00:00 INFO (6): Action: auth
+2018-06-04T10:33:29+00:00 INFO (6): Request
+2018-06-04T10:33:29+00:00 INFO (6): Array
+(
+    [merchid] => S8qgg4x1aGfmEBnWzAwA0wc7IfSFTKSS
+    [orderid] => 000000075
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 145860
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-06-04T10:33:33+00:00 INFO (6): Response
+2018-06-04T10:33:33+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-06-04T10:33:54+00:00 INFO (6): Action: auth
+2018-06-04T10:33:54+00:00 INFO (6): Request
+2018-06-04T10:33:54+00:00 INFO (6): Array
+(
+    [merchid] => S8qgg4x1aGfmEBnWzAwA0wc7IfSFTKSS
+    [orderid] => 000000076
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 145860
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-06-04T10:33:58+00:00 INFO (6): Response
+2018-06-04T10:33:58+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-06-04T10:35:45+00:00 INFO (6): Action: auth
+2018-06-04T10:35:45+00:00 INFO (6): Request
+2018-06-04T10:35:45+00:00 INFO (6): Array
+(
+    [merchid] => S8qgg4x1aGfmEBnWzAwA0wc7IfSFTKSS
+    [orderid] => 000000077
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 145860
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-06-04T10:35:48+00:00 INFO (6): Response
+2018-06-04T10:35:48+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-06-04T10:35:59+00:00 INFO (6): Action: auth
+2018-06-04T10:35:59+00:00 INFO (6): Request
+2018-06-04T10:35:59+00:00 INFO (6): Array
+(
+    [merchid] => S8qgg4x1aGfmEBnWzAwA0wc7IfSFTKSS
+    [orderid] => 000000078
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 145860
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-06-04T10:36:04+00:00 INFO (6): Response
+2018-06-04T10:36:04+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-06-04T10:48:18+00:00 INFO (6): Action: auth
+2018-06-04T10:48:18+00:00 INFO (6): Request
+2018-06-04T10:48:18+00:00 INFO (6): Array
+(
+    [merchid] => S8qgg4x1aGfmEBnWzAwA0wc7IfSFTKSS
+    [orderid] => 000000079
+    [account] => 4242XXXXXXXX42
+    [expiry] => 0623
+    [cvv2] => 123
+    [amount] => 145860
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-06-04T10:48:21+00:00 INFO (6): Response
+2018-06-04T10:48:21+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+
+2018-06-06T12:15:10+00:00 INFO (6): Action: auth
+2018-06-06T12:15:10+00:00 INFO (6): Request
+2018-06-06T12:15:10+00:00 INFO (6): Array
+(
+    [merchid] => S8qgg4x1aGfmEBnWzAwA0wc7IfSFTKSS
+    [orderid] => 000000080
+    [account] => 4444XXXXXXXX1111
+    [expiry] => 1019
+    [cvv2] => 123
+    [amount] => 145860
+    [currency] => 
+    [name] => ashwani khatri
+    [address] => jaipur
+    [city] => rt
+    [region] => CA
+    [country] => US
+    [postal] => 89656
+    [ecomind] => E
+    [track] => 
+    [tokenize] => Y
+)
+
+2018-06-06T12:15:13+00:00 INFO (6): Response
+2018-06-06T12:15:13+00:00 INFO (6): Array
+(
+    [code] => 100005
+    [message] => Missing or invalid Application Identifier
+    [info] => https://developer.sagepayments.com/docs/errors#100005
+    [detail] => A valid Application ID is required in header parameter clientId.
+)
+

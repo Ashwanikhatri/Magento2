@@ -1,0 +1,230 @@
+2018-05-30T13:23:55+00:00 INFO (6): authorize
+2018-05-30T13:25:22+00:00 INFO (6): authorize
+2018-05-30T13:28:28+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-05-30T13:47:36+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-05-30T13:52:50+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-05-30T14:06:48+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-05-31T06:25:50+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-05-31T06:39:39+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-05-31T06:54:37+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-05-31T14:51:07+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-05-31T14:55:12+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-06-01T08:17:13+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-06-01T08:17:26+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-06-01T08:18:25+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-06-01T08:19:43+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-06-04T10:33:33+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-06-04T10:33:58+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-06-04T10:35:48+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-06-04T10:36:04+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-06-04T10:48:21+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
+2018-06-06T12:15:13+00:00 INFO (6): Magento\Framework\DataObject Object
+(
+    [_data:protected] => Array
+        (
+            [code] => 100005
+            [message] => Missing or invalid Application Identifier
+            [info] => https://developer.sagepayments.com/docs/errors#100005
+            [detail] => A valid Application ID is required in header parameter clientId.
+        )
+
+)
+
